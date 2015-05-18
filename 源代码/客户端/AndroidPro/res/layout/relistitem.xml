@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout02"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="4dip"
+    android:paddingLeft="12dip"
+    android:paddingRight="12dip" >
+    <ImageView
+        android:id="@+id/ItemImage2"
+        android:src="@drawable/ic_launcher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:paddingTop="12dip" />
+
+    <TextView
+        android:id="@+id/fname2"
+        android:textColor="#00ff00"
+        android:layout_width="40dip"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/ItemImage2"
+        android:textSize="20dip" />
+
+    <TextView
+        android:id="@+id/finfo2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fname2"
+        android:layout_toRightOf="@id/ItemImage2"/>
+    <TextView
+        android:id="@+id/per"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"     
+        android:layout_toRightOf="@id/fname2"
+        android:textSize="20dip" 
+        android:textColor="#ffff00"/>
+    <Button 
+        android:id="@+id/addf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="添加"/>
+    <Button 
+        android:id="@+id/look"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/addf"
+        android:text="详细"/>
+
+</RelativeLayout>

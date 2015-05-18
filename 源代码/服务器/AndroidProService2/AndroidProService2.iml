@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <conelement value="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0" />
+    <conelement value="org.eclipse.jst.j2ee.internal.web.container" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.7 (1)" jdkType="JavaSDK" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/antlr-2.7.6rc1.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-cli-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-codec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-collections-testframework-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-httpclient-3.1-rc1.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-io-1.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-lang-2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-logging.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-net-1.4.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/hibernate3.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/javassist.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/json-lib-2.2-jdk15.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jta.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jul-to-slf4j-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/org.json.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-api-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-ext-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-jcl-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-jdk14-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-log4j12-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-migrator-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-nop-1.7.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-simple-1.7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-collections-3.2.1-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-collections-3.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jul-to-slf4j-1.7.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/org.json.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-api-1.7.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-ext-1.7.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-jcl-1.7.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-jdk14-1.7.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-log4j12-1.7.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-nop-1.7.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-simple-1.7.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 6.0.35" level="application_server_libraries" />
+  </component>
+</module>
+
